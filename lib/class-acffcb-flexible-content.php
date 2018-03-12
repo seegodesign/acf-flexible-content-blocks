@@ -127,7 +127,7 @@ class FlexibleContent {
 					),
 					'min' => $min,
 					'max' => $max,
-					'button_label' => 'Add Media',
+					'button_label' => 'Add Content',
 					'layouts' => array (
 						array (
 							'key' => $this->key . $this->getCallingFunctionName() . __FUNCTION__ . '-image',

@@ -45,7 +45,7 @@ namespace MWD\ACFFCB;
                             'class' => '',
                             'id' => '',
                         ),
-                        'button_label' => 'Add Block',
+                        'button_label' => 'Add Row',
                         'min' => '',
                         'max' => '',
                         'layouts' => array (),
